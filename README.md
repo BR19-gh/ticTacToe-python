@@ -17,6 +17,8 @@ There's two game modes:
 
 - First turn will be randomly determined (between 1st player and 2nd player in multiplayer, and between player and Computer in single player)
 
+- Input errors catchig
+
 ## Starting Up
 You should first download `Python-3.9` then run the file in the Python terminal
 ## Some Game Preview
