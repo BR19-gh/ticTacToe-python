@@ -1,5 +1,3 @@
-# مشروع رقم 1 - موضوعات عامة لعلوم الحاسب 492 - إبراهيم الخويطر 381120606
-
 import random
 from os import system, name
 from time import sleep
@@ -355,11 +353,6 @@ def main():
 
         multiPlayers()
     #End of: Gamemode: mylti-players
-    elif(gamemode=='3'):
-        clear()
-        Nothing=input("Student Name: Ibrahim Alkhowaiter\nStudent U.ID: 381120606\nClass:        CS492-764\n\nPress Enter to continue")
-        clear()
-        main()
     else:
         clear()
         error=input('ERORR: Wrong Input, choose between 1 or 2.\n\nPress Enter to Select Again')
