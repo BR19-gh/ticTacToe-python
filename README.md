@@ -20,7 +20,10 @@ There's two game modes:
 - Input errors catchig
 
 ## Starting Up
-You should first download `Python-3.9` then run the file in the Python terminal
+You should first download `Python-3.9`, then go to the file directory, then run the file in the terminal via:
+```powershell
+python3 main.py
+```
 ## Some Game Preview
 Start Menu
 ```
